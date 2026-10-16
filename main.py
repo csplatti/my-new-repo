@@ -7,3 +7,6 @@ if __name__ == "__main__":
 
 def new_feature():
     print("hi im a new feature!")
+
+def ai():
+    print("hello this is ai speaking")
